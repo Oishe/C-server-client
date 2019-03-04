@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "prettier.tabWidth": 4,
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
